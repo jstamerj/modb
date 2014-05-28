@@ -1,0 +1,12 @@
+{
+  "name": "modb",
+  "private": true,
+  "version": "0.0.1",
+  "description": "module B",
+  "main": "lib",
+  "dependencies": {
+    "moda": "jstamerj/moda"
+  },
+  "devDependencies": {
+  }
+}
