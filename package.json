@@ -5,6 +5,8 @@
   "description": "module B",
   "main": "modb",
   "dependencies": {
+  },
+  "peerDependencies": {
     "modc": "jstamerj/modc"
   },
   "devDependencies": {
