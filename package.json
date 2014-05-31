@@ -5,9 +5,9 @@
   "description": "module B",
   "main": "modb",
   "dependencies": {
+    "modc": "git+ssh://git@github.com:jstamerj/modc.git"
   },
   "peerDependencies": {
-    "modc": "git+ssh://git@github.com:jstamerj/modc.git"
   },
   "devDependencies": {
   }
