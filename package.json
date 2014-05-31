@@ -7,7 +7,7 @@
   "dependencies": {
   },
   "peerDependencies": {
-    "modc": "jstamerj/modc"
+    "modc": "git+ssh://git@github.com:jstamerj/modc.git"
   },
   "devDependencies": {
   }
